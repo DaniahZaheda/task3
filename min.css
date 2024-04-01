@@ -1,0 +1,19 @@
+.services{
+background-color: darkgrey;
+text-align: center;
+}
+
+ p{
+    color: aqua;
+ }
+
+
+ .service{
+   display: inline-block;
+   width: 24%;
+   background-color: teal;
+ }
+
+ i{
+ color: brown;
+ }
